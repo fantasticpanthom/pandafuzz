@@ -2,4 +2,4 @@
 
 ### Pull requests  to remove whitespace/fix typos/optimize images will not be entertained.
 
-> If you fell there are any issues or components that needed to be added to the project which will improve the function or user experience of the tool , feel free to shoot me a dm on [twiiter](https://twitter.com/ipanda915).
+> If you fell there are any issues or components that needed to be added to the project which will improve the function or user experience of the tool , feel free to shoot me a dm on [twitter](https://twitter.com/ipanda915).
