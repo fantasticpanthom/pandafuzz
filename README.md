@@ -42,7 +42,7 @@ Example :
 ```
 
 ### From Github 
-
+```
 >>cd $GOPATH
 >>git clone https://github.com/fantasticpanthom/pandafuzz.git
 >>go build statuscode.go -o statuscode
